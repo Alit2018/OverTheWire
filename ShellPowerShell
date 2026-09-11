@@ -1,0 +1,11 @@
+curl https://example.com/robots/txt | grep "Disallow" //cur moves data, grep searches data 
+curl -I https://example.com
+
+curl -o file.zip https://example.com/file.zip
+
+
+
+Invoke-WebRequest https://example.com/robots.txt
+iwr https://example.com
+
+
