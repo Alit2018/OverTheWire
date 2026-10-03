@@ -1,0 +1,18 @@
+To be a red team hacker, you need to know several programming and scripting languages to automate tasks, build custom tools, and 
+exploit system weaknesses.
+
+Essential Languages for Red Teaming
+
+• Python: The top language for fast scripting, automation, and building quick exploit proofs-of-concept. It uses libraries like Scapy and Requests to scan networks and test APIs.
+• C and C++: Low-level languages vital for understanding memory management, writing shellcode, and analyzing low-level system exploits or malware.
+• PowerShell: Essential for attacking and auditing Windows environments and Active Directory networks.
+• Bash: The core shell language for automating tasks, parsing data, and running reconnaissance on Linux and Unix systems.
+• JavaScript: Necessary for web application testing, client-side logic flaws, and cross-site scripting (XSS) analysis.
+* SQL: Crucial for understanding database layouts and testing for data-layer injection flaws. ￼
+￼
+Specialized Languages
+
+Go (Golang): Used to build fast, concurrent network tools and modern cross-platform payloads.
+Ruby: Used mainly to customize and write modules for the Metasploit Framework.
+Assembly: Used in reverse engineering and deep binary analysis. ￼
+￼
